@@ -3,7 +3,7 @@ import os
 import numpy as np
 
 #consts
-N = 8
+N = 10
 iterations = 100
 eps = 0.5
 
